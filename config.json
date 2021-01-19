@@ -1,0 +1,41 @@
+{
+  "rule": {
+    "game_time": 300,
+    "deadlock": true
+  },
+  "team_a": {
+    "name": "teamA",
+    "executable": "examples/player_rulebasedE_py/player_rulebasedE.py",
+    "datapath": "examples/team_a_data",
+    "keyboard": false
+  },
+  "team_b": {
+    "name": "teamB",
+    "executable": "examples/player_rulebasedC_py/player_rulebasedC.py",
+    "datapath": "examples/team_b_data",
+    "keyboard": false
+  },
+  "commentator": {
+    "name": "commentator",
+    "executable": "examples/commentator_skeleton_py/commentator_skeleton.py",
+    "datapath": "examples/commentator_data"
+  },
+  "reporter": {
+    "name": "reporter",
+    "executable": "examples/reporter_skeleton_py/reporter_skeleton.py",
+    "datapath": "examples/reporter_data"
+  },
+  "tool": {
+    "repeat": false,
+    "multi_view": false,
+    "record": false,
+    "record_path": "",
+    "replay": false,
+    "patch_visible": true,
+    "show_comments": false
+  },
+  "license": {
+    "email": "jminji98@naver.com",
+    "signature": "cer02BFidM9aHCe0b9nanoYFaPftSzt14KQvrWW+69zz5SUe+zpd4c5n3iMFIMwkE7d0siwDEqQAyOgtBjWCCQ=="
+  }
+}
