@@ -5,7 +5,7 @@
   },
   "team_a": {
     "name": "teamA",
-    //"executable": "examples/player_rulebasedE_py/player_rulebasedE.py",
+    #"executable": "examples/player_rulebasedE_py/player_rulebasedE.py",
     "executable": "examples/player_rulebasedH_py/player_rulebasedH.py",
     "datapath": "examples/team_a_data",
     "keyboard": false
