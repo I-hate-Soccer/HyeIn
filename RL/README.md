@@ -1,8 +1,16 @@
-# Reinforcement Learning(강화학습)
+# AI Soccer
 
-## 1. Q-learning
-> Frozenlake-v0
+## Reinforcement Learning(강화학습)
 
-## 2. DQN
-> Frozenlake-v0
-> CartPole-v1
+### 1. Q-learning
+**Frozenlake-v0**
+>
+    
+    • 
+
+### 2. DQN
+**Frozenlake-v0**
+**CartPole-v1**
+> 
+
+    • 
