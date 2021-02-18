@@ -1,7 +1,7 @@
 # Reinforcement Learning(강화학습)
 
-## Q-learning
-### Frozenlake-v0
+## 1. Q-learning
+> Frozenlake-v0
 
-## DQN
-### CartPole-v1
+## 2. DQN
+> CartPole-v1
